@@ -1,0 +1,11 @@
+Steps:
+
+1. Unzip the backend folder 
+
+2. get into the actual folder. 
+
+3. npm i 
+
+4. node index.js 
+
+Note: make sure mongodb DB is running

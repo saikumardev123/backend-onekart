@@ -1,0 +1,10 @@
+PORT = 
+API_URL = /api/v1.0.0
+DB_URL = 
+
+
+my details
+
+//SENDGRID_API_KEY = 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
+SERVICE_PROVIDER = SendGrid
+SENDER_EMAIL = saikumar@digital-lync.com
